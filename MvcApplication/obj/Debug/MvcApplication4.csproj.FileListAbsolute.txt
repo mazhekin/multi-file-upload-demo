@@ -1,0 +1,62 @@
+D:\Tests\MvcApplication4\MvcApplication4\bin\MvcApplication4.dll
+D:\Tests\MvcApplication4\MvcApplication4\bin\MvcApplication4.pdb
+D:\Tests\MvcApplication4\MvcApplication4\bin\Antlr3.Runtime.dll
+D:\Tests\MvcApplication4\MvcApplication4\bin\EntityFramework.dll
+D:\Tests\MvcApplication4\MvcApplication4\bin\Microsoft.Web.Infrastructure.dll
+D:\Tests\MvcApplication4\MvcApplication4\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\Tests\MvcApplication4\MvcApplication4\bin\Newtonsoft.Json.dll
+D:\Tests\MvcApplication4\MvcApplication4\bin\System.Net.Http.Formatting.dll
+D:\Tests\MvcApplication4\MvcApplication4\bin\System.Web.Http.dll
+D:\Tests\MvcApplication4\MvcApplication4\bin\System.Web.Http.WebHost.dll
+D:\Tests\MvcApplication4\MvcApplication4\bin\System.Web.Mvc.dll
+D:\Tests\MvcApplication4\MvcApplication4\bin\System.Web.Optimization.dll
+D:\Tests\MvcApplication4\MvcApplication4\bin\System.Web.Providers.dll
+D:\Tests\MvcApplication4\MvcApplication4\bin\System.Web.Razor.dll
+D:\Tests\MvcApplication4\MvcApplication4\bin\System.Web.WebPages.Deployment.dll
+D:\Tests\MvcApplication4\MvcApplication4\bin\System.Web.WebPages.dll
+D:\Tests\MvcApplication4\MvcApplication4\bin\System.Web.WebPages.Razor.dll
+D:\Tests\MvcApplication4\MvcApplication4\bin\WebGrease.dll
+D:\Tests\MvcApplication4\MvcApplication4\bin\EntityFramework.xml
+D:\Tests\MvcApplication4\MvcApplication4\bin\Newtonsoft.Json.xml
+D:\Tests\MvcApplication4\MvcApplication4\bin\System.Net.Http.Formatting.xml
+D:\Tests\MvcApplication4\MvcApplication4\bin\System.Web.Http.xml
+D:\Tests\MvcApplication4\MvcApplication4\bin\System.Web.Http.WebHost.xml
+D:\Tests\MvcApplication4\MvcApplication4\bin\System.Web.Mvc.xml
+D:\Tests\MvcApplication4\MvcApplication4\bin\System.Web.Razor.xml
+D:\Tests\MvcApplication4\MvcApplication4\bin\System.Web.WebPages.xml
+D:\Tests\MvcApplication4\MvcApplication4\bin\System.Web.WebPages.Deployment.xml
+D:\Tests\MvcApplication4\MvcApplication4\bin\System.Web.WebPages.Razor.xml
+D:\Tests\MvcApplication4\MvcApplication4\obj\Debug\MvcApplication4.csprojResolveAssemblyReference.cache
+D:\Tests\MvcApplication4\MvcApplication4\obj\Debug\MvcApplication4.dll
+D:\Tests\MvcApplication4\MvcApplication4\obj\Debug\MvcApplication4.pdb
+D:\!codehint.ru\Articles\2013_02_18 Multiple file upolad\MvcApplication4\MvcApplication4\bin\MvcApplication4.dll
+D:\!codehint.ru\Articles\2013_02_18 Multiple file upolad\MvcApplication4\MvcApplication4\bin\MvcApplication4.pdb
+D:\!codehint.ru\Articles\2013_02_18 Multiple file upolad\MvcApplication4\MvcApplication4\bin\Antlr3.Runtime.dll
+D:\!codehint.ru\Articles\2013_02_18 Multiple file upolad\MvcApplication4\MvcApplication4\bin\EntityFramework.dll
+D:\!codehint.ru\Articles\2013_02_18 Multiple file upolad\MvcApplication4\MvcApplication4\bin\Microsoft.Web.Infrastructure.dll
+D:\!codehint.ru\Articles\2013_02_18 Multiple file upolad\MvcApplication4\MvcApplication4\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\!codehint.ru\Articles\2013_02_18 Multiple file upolad\MvcApplication4\MvcApplication4\bin\Newtonsoft.Json.dll
+D:\!codehint.ru\Articles\2013_02_18 Multiple file upolad\MvcApplication4\MvcApplication4\bin\System.Net.Http.Formatting.dll
+D:\!codehint.ru\Articles\2013_02_18 Multiple file upolad\MvcApplication4\MvcApplication4\bin\System.Web.Http.dll
+D:\!codehint.ru\Articles\2013_02_18 Multiple file upolad\MvcApplication4\MvcApplication4\bin\System.Web.Http.WebHost.dll
+D:\!codehint.ru\Articles\2013_02_18 Multiple file upolad\MvcApplication4\MvcApplication4\bin\System.Web.Mvc.dll
+D:\!codehint.ru\Articles\2013_02_18 Multiple file upolad\MvcApplication4\MvcApplication4\bin\System.Web.Optimization.dll
+D:\!codehint.ru\Articles\2013_02_18 Multiple file upolad\MvcApplication4\MvcApplication4\bin\System.Web.Providers.dll
+D:\!codehint.ru\Articles\2013_02_18 Multiple file upolad\MvcApplication4\MvcApplication4\bin\System.Web.Razor.dll
+D:\!codehint.ru\Articles\2013_02_18 Multiple file upolad\MvcApplication4\MvcApplication4\bin\System.Web.WebPages.Deployment.dll
+D:\!codehint.ru\Articles\2013_02_18 Multiple file upolad\MvcApplication4\MvcApplication4\bin\System.Web.WebPages.dll
+D:\!codehint.ru\Articles\2013_02_18 Multiple file upolad\MvcApplication4\MvcApplication4\bin\System.Web.WebPages.Razor.dll
+D:\!codehint.ru\Articles\2013_02_18 Multiple file upolad\MvcApplication4\MvcApplication4\bin\WebGrease.dll
+D:\!codehint.ru\Articles\2013_02_18 Multiple file upolad\MvcApplication4\MvcApplication4\bin\EntityFramework.xml
+D:\!codehint.ru\Articles\2013_02_18 Multiple file upolad\MvcApplication4\MvcApplication4\bin\Newtonsoft.Json.xml
+D:\!codehint.ru\Articles\2013_02_18 Multiple file upolad\MvcApplication4\MvcApplication4\bin\System.Net.Http.Formatting.xml
+D:\!codehint.ru\Articles\2013_02_18 Multiple file upolad\MvcApplication4\MvcApplication4\bin\System.Web.Http.xml
+D:\!codehint.ru\Articles\2013_02_18 Multiple file upolad\MvcApplication4\MvcApplication4\bin\System.Web.Http.WebHost.xml
+D:\!codehint.ru\Articles\2013_02_18 Multiple file upolad\MvcApplication4\MvcApplication4\bin\System.Web.Mvc.xml
+D:\!codehint.ru\Articles\2013_02_18 Multiple file upolad\MvcApplication4\MvcApplication4\bin\System.Web.Razor.xml
+D:\!codehint.ru\Articles\2013_02_18 Multiple file upolad\MvcApplication4\MvcApplication4\bin\System.Web.WebPages.xml
+D:\!codehint.ru\Articles\2013_02_18 Multiple file upolad\MvcApplication4\MvcApplication4\bin\System.Web.WebPages.Deployment.xml
+D:\!codehint.ru\Articles\2013_02_18 Multiple file upolad\MvcApplication4\MvcApplication4\bin\System.Web.WebPages.Razor.xml
+D:\!codehint.ru\Articles\2013_02_18 Multiple file upolad\MvcApplication4\MvcApplication4\obj\Debug\MvcApplication4.csprojResolveAssemblyReference.cache
+D:\!codehint.ru\Articles\2013_02_18 Multiple file upolad\MvcApplication4\MvcApplication4\obj\Debug\MvcApplication4.dll
+D:\!codehint.ru\Articles\2013_02_18 Multiple file upolad\MvcApplication4\MvcApplication4\obj\Debug\MvcApplication4.pdb
